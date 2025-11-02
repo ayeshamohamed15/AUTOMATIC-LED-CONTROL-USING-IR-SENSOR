@@ -102,10 +102,9 @@ int main(void)
 ---
 ### OUTPUT
 CASE 1: LED ON 
-
 CASE 2: LED OFF
+<img width="332" height="382" alt="image" src="https://github.com/user-attachments/assets/2175f56d-80fa-479a-9f4b-a2e0219022e5" />
 
----
 ### RESULT
 
 The experiment on IR Sensor-Based Automatic LED Control using STM32 was successfully carried out. The STM32 microcontroller accurately read the IR sensor output and controlled the LED based on object detection. When an object was detected, the LED glowed (ON) and when no object was present, the LED remained OFF. Thus, the objective of the experiment was achieved.
